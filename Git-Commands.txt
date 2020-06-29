@@ -18,5 +18,8 @@ OS used is Ubuntu
 To check the status of the Git repository
 4) git status
 
-Adding the updated files to the Git Repository
+5) Adding the updated files to the Git Repository
 - eighther use git add <file names > or git add . (dot means all the files in the directory)
+
+6) Commit the changes to the repository
+- git commit -m ''first comming of adding all the files in the folder''
