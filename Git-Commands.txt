@@ -23,3 +23,9 @@ To check the status of the Git repository
 
 6) Commit the changes to the repository
 - git commit -m ''first comming of adding all the files in the folder''
+
+7) add repository to command line
+- git remote add origin "https://github.com/Swapnil-Keshetty/GitCommands.git"
+
+8) push files to git
+- git push -u origin master
