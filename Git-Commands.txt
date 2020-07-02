@@ -36,3 +36,6 @@ above are the basic commands to create and update git reposiotries from command 
 
 # This is to commit appended changes
 9) git commit -am  "comments for changes" 
+
+# gives changes in the files commited and local
+10) git diff
