@@ -29,3 +29,7 @@ To check the status of the Git repository
 
 8) push files to git
 - git push -u origin master
+
+Enter the username and password of Git when prompted 
+Repeat the steps 6 and 8 for any further updates to files in the directory
+above are the basic commands to create and update git reposiotries from command line
