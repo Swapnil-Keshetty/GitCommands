@@ -33,3 +33,6 @@ To check the status of the Git repository
 Enter the username and password of Git when prompted 
 Repeat the steps 6 and 8 for any further updates to files in the directory
 above are the basic commands to create and update git reposiotries from command line
+
+# This is to commit appended changes
+9) git commit -am  "comments for changes" 
